@@ -141,4 +141,3 @@
 //         Persona.pintarPersonaUI(profesores, opcion)
 //     }
 // })
-
